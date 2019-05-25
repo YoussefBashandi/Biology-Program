@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1544277708 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencing\main.cpp
+	<iostream>
+	"Sequence.h"
+	"Protien.h"
+	"CodonsTable.h"
+	"DNA.h"
+
+1544202877 e:\uni\third semster\cs213\assignments\assignment 4\sequencing\include\sequence.h
+	<iostream>
+
+1544204941 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencing\src\sequence.cpp
+	"Sequence.h"
+
+1544279220 e:\uni\third semster\cs213\assignments\assignment 4\sequencing\include\protien.h
+	"Sequence.h"
+	"CodonsTable.h"
+	<iostream>
+
+1544277053 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencing\src\protien.cpp
+	"Protien.h"
+
+1544205515 e:\uni\third semster\cs213\assignments\assignment 4\sequencing\include\codonstable.h
+	<bits/stdc++.h>
+
+1544205515 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencing\src\codonstable.cpp
+	"CodonsTable.h"
+
+1544278368 e:\uni\third semster\cs213\assignments\assignment 4\sequencing\include\dna.h
+	<iostream>
+	"Sequence.h"
+
+1544278672 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencing\src\dna.cpp
+	"DNA.h"
+
+1544644427 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\src\codonstable.cpp
+	"CodonsTable.h"
+
+1544205515 e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\include\codonstable.h
+	<bits/stdc++.h>
+
+1544792469 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\src\protien.cpp
+	"Protien.h"
+	"CodonsTable.h"
+
+1544792469 e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\include\protien.h
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	<iostream>
+	<vector>
+
+1544792469 e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\include\sequence.h
+	<iostream>
+	<CodonsTable.h>
+
+1544730276 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\src\sequence.cpp
+	"Sequence.h"
+
+1544791077 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\src\dna.cpp
+	"DNA.h"
+
+1544735050 e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+	"Protien.h"
+	"CodonsTable.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1544792337 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\main.cpp
+	<bits/stdc++.h>
+	"RNA.h"
+	"Sequence.h"
+	"DNA.h"
+	"Protien.h"
+	"CodonsTable.h"
+	<conio.h>
+
+1544792469 e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\include\rna.h
+	<iostream>
+	"Sequence.h"
+	"Protien.h"
+	<iostream>
+	"DNA.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1544792469 source:e:\uni\third semster\cs213\assignments\assignment 4\sequencingc\src\rna.cpp
+	"RNA.h"
+	<array>
+	<list>
+
+1544792337 source:d:\fci-assignments\programming ii\a4\sequencingc\main.cpp
+	<bits/stdc++.h>
+	"RNA.h"
+	"Sequence.h"
+	"DNA.h"
+	"Protien.h"
+	"CodonsTable.h"
+	<conio.h>
+
+1544792469 d:\fci-assignments\programming ii\a4\sequencingc\include\rna.h
+	<iostream>
+	"Sequence.h"
+	"Protien.h"
+	<iostream>
+	"DNA.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1544792469 d:\fci-assignments\programming ii\a4\sequencingc\include\sequence.h
+	<iostream>
+	<CodonsTable.h>
+
+1544205515 d:\fci-assignments\programming ii\a4\sequencingc\include\codonstable.h
+	<bits/stdc++.h>
+
+1544792469 d:\fci-assignments\programming ii\a4\sequencingc\include\protien.h
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	<iostream>
+	<vector>
+
+1544735050 d:\fci-assignments\programming ii\a4\sequencingc\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+	"Protien.h"
+	"CodonsTable.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1544644427 source:d:\fci-assignments\programming ii\a4\sequencingc\src\codonstable.cpp
+	"CodonsTable.h"
+
+1544791077 source:d:\fci-assignments\programming ii\a4\sequencingc\src\dna.cpp
+	"DNA.h"
+
+1544792469 source:d:\fci-assignments\programming ii\a4\sequencingc\src\protien.cpp
+	"Protien.h"
+	"CodonsTable.h"
+
+1544792469 source:d:\fci-assignments\programming ii\a4\sequencingc\src\rna.cpp
+	"RNA.h"
+	<array>
+	<list>
+
+1544730276 source:d:\fci-assignments\programming ii\a4\sequencingc\src\sequence.cpp
+	"Sequence.h"
+
+1544644427 source:d:\fci-assignments\programming ii\a4\biobois\src\codonstable.cpp
+	"CodonsTable.h"
+
+1544205515 d:\fci-assignments\programming ii\a4\biobois\include\codonstable.h
+	<bits/stdc++.h>
+
+1544791077 source:d:\fci-assignments\programming ii\a4\biobois\src\dna.cpp
+	"DNA.h"
+
+1544735050 d:\fci-assignments\programming ii\a4\biobois\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+	"Protien.h"
+	"CodonsTable.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1544792469 d:\fci-assignments\programming ii\a4\biobois\include\sequence.h
+	<iostream>
+	<CodonsTable.h>
+
+1544792469 d:\fci-assignments\programming ii\a4\biobois\include\rna.h
+	<iostream>
+	"Sequence.h"
+	"Protien.h"
+	<iostream>
+	"DNA.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1544792469 d:\fci-assignments\programming ii\a4\biobois\include\protien.h
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	<iostream>
+	<vector>
+
+1544792469 source:d:\fci-assignments\programming ii\a4\biobois\src\protien.cpp
+	"Protien.h"
+	"CodonsTable.h"
+
+1544792469 source:d:\fci-assignments\programming ii\a4\biobois\src\rna.cpp
+	"RNA.h"
+	<array>
+	<list>
+
+1544730276 source:d:\fci-assignments\programming ii\a4\biobois\src\sequence.cpp
+	"Sequence.h"
+
+1544795313 source:d:\fci-assignments\programming ii\a4\biobois\main.cpp
+	<bits/stdc++.h>
+	"RNA.h"
+	"Sequence.h"
+	"DNA.h"
+	"Protien.h"
+	"CodonsTable.h"
+	<conio.h>
+
+1544794137 source:d:\fci-assignments\programming ii\biobois\src\codonstable.cpp
+	"CodonsTable.h"
+
+1544794137 d:\fci-assignments\programming ii\biobois\include\codonstable.h
+	<bits/stdc++.h>
+
+1546784244 source:d:\fci-assignments\programming ii\biobois\src\dna.cpp
+	"DNA.h"
+
+1544794137 d:\fci-assignments\programming ii\biobois\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+	"Protien.h"
+	"CodonsTable.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1544794137 d:\fci-assignments\programming ii\biobois\include\sequence.h
+	<iostream>
+	<CodonsTable.h>
+
+1546785042 d:\fci-assignments\programming ii\biobois\include\rna.h
+	<iostream>
+	"Sequence.h"
+	"Protien.h"
+	<iostream>
+	"DNA.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1544794137 d:\fci-assignments\programming ii\biobois\include\protien.h
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	<iostream>
+	<vector>
+
+1544794137 source:d:\fci-assignments\programming ii\biobois\src\protien.cpp
+	"Protien.h"
+	"CodonsTable.h"
+
+1544794137 source:d:\fci-assignments\programming ii\biobois\src\rna.cpp
+	"RNA.h"
+	<array>
+	<list>
+
+1544794137 source:d:\fci-assignments\programming ii\biobois\src\sequence.cpp
+	"Sequence.h"
+
+1544794137 source:d:\fci-assignments\programming ii\biobois\main.cpp
+	<bits/stdc++.h>
+	"RNA.h"
+	"Sequence.h"
+	"DNA.h"
+	"Protien.h"
+	"CodonsTable.h"
+	<conio.h>
+	"Menu.h"
+
+1544794137 source:d:\fci-assignments\programming ii\biobois\menu.cpp
+	"Menu.h"
+	<bits/stdc++.h>
+	"RNA.h"
+	"Sequence.h"
+	"DNA.h"
+	"Protien.h"
+	"CodonsTable.h"
+	<conio.h>
+	<vector>
+
+1544794137 d:\fci-assignments\programming ii\biobois\menu.h
+
